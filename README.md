@@ -20,6 +20,7 @@
 - [timer2.py](timer2.py) Homegrown timing tools for function calls.
 - [timer3.py](timer3.py) Homegrown timing tools for function calls.
 - [classtree.py](classtree.py) Climb inheritance tree using namespace links, displaying higher superclasses with indentation for height
+- [listinstance.py](listinstance.py)  Mix-in class that provides a formatted print() or str()
 
 ---
 
