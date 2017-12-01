@@ -46,3 +46,5 @@ __Open an issue or a pull request to suggest changes or additions.__
   has waived all copyright and related or neighboring rights to
   <span property="dct:title">Snippets</span>.
 </p>
+
+[:arrow_up: __Back To Top__](#python-snippets)
