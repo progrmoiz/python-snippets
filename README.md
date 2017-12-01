@@ -2,6 +2,8 @@
 
 :snake: Python snippets of examples, to learn things and to make task easier.
 
+---
+
 ## Snippets
 
 - [string_import.py](string_import.py) example to show import module from string
@@ -18,3 +20,29 @@
 - [timer2.py](timer2.py) Homegrown timing tools for function calls.
 - [timer3.py](timer3.py) Homegrown timing tools for function calls.
 - [classtree.py](classtree.py) Climb inheritance tree using namespace links, displaying higher superclasses with indentation for height
+
+---
+
+## Contributing
+
+__Open an issue or a pull request to suggest changes or additions.__
+
+## Authors
+
+[Abdul Moiz](https://github.com/progrmoiz)
+
+## License
+
+<p xmlns:dct="http://purl.org/dc/terms/">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law,
+  <a rel="dct:publisher"
+     href="https://github.com/progrmoiz/">
+    <span property="dct:title">Abdul Moiz</span></a>
+  has waived all copyright and related or neighboring rights to
+  <span property="dct:title">Snippets</span>.
+</p>
