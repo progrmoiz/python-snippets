@@ -16,7 +16,7 @@ def permute1(seq):
             rest = seq[:i] + seq[i+1:]
             for x in permute(rest):
                 res.append(seq[i:i+1] + x)
-    return resn
+    return res
 
 for i in permute('maths'):
     print(i)
