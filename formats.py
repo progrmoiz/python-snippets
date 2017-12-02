@@ -22,6 +22,13 @@ def commas(N):
     return result
 
 
+def commas1(N):
+    """
+    The more easiest way to format digits
+    """
+    return '{:,}'.format(N)
+
+
 def money(N, numwidth=0, currency="$"):
     """
     Format number N for display with commas, 2 decimal digits,
@@ -43,6 +50,13 @@ if __name__ == '__main__':
         tests += 2 ** 32, 2 ** 100
         for test in tests:
             print(commas(test))
+
+        print("-" * 80)
+
+        for test in tests:
+            print(commas1(test))
+
+        print("-" * 80)
 
         tests = 0, 1, -1, 1.23, 1., 1.2, 3.1341
         tests += 12, 123, 1234, 12345, 123456, 1234567
