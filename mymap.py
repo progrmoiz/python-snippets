@@ -18,7 +18,7 @@ def mymap(func, *seqs):
 
 
 def mymap(func, *seqs):
-    return (func(args) for args in zip(*seqs))
+    return (func(*args) for args in zip(*seqs))
 
 print(list(mymap(abs, [-2, -1, 0, 1, 2])))
 print(list(mymap(pow, [1, 2], [2, 3, 4])))
