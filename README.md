@@ -21,6 +21,7 @@
 - [timer3.py](timer3.py) Homegrown timing tools for function calls.
 - [classtree.py](classtree.py) Climb inheritance tree using namespace links, displaying higher superclasses with indentation for height
 - [listinstance.py](listinstance.py)  Mix-in class that provides a formatted print() or str()
+- [listinherited.py](listinherited.py) Mix-in class that provides a formatted print() or str() (Use dir() to collect both instance attr and names inherited from its classes)
 
 ---
 
