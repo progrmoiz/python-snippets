@@ -2,7 +2,7 @@
 
 modname = 'string'
 string = __import__(modname)
-print(string)
+print(string)    #will print the 'string'
 
 # Python official prefferred way
 
