@@ -1,4 +1,5 @@
 # ![Python Snippets](./logo.png "Python Snippets")
+let's learn
 
 :snake: Python snippets of examples, to learn things and to make task easier.
 
