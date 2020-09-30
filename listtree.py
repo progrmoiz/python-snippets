@@ -51,22 +51,17 @@ class ListTree:
 
 
 def tester(listerclass, sept=False):
-
     class Super:
-
-        def __init__(self):
+         def __init__(self):
             self.data1 = 'spam'
-
-        def ham(self):
+         def ham(self):
             pass
 
     class Sub(Super, listerclass):
-
         def __init__(self):
             Super.__init__(self)
             self.data2 = 'eggs'
             self.data3 = 42
-
         def spam(self):
             pass
 
