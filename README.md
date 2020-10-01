@@ -1,6 +1,6 @@
 # ![Python Snippets](./logo.png "Python Snippets")
 
-:snake: Python snippets of examples, to learn things and to make task easier.
+:snake: Python is one of the most commonly used programming language nowadays.Here are some of python snippets of examples, to learn things and to make task easier.
 
 ---
 
