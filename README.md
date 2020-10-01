@@ -1,6 +1,6 @@
 # ![Python Snippets](./logo.png "Python Snippets")
 
-:snake: Python snippets of examples, to learn things and to make task easier.
+:snake: Amazing Python snippets of examples, to learn things and to make task easier.
 
 ---
 
@@ -32,6 +32,8 @@ instance to the instance or class from which they are inherited.
 ## Contributing
 
 __Open an issue or a pull request to suggest changes or additions.__
+
+---
 
 ## Authors
 
