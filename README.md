@@ -1,4 +1,4 @@
-# ![Python Snippets](./logo.png "Python Snippets")
+# ![Python Snippets](./logo.png "Python Snippets") amazing project...
 
 :snake: Python snippets of examples, to learn things and to make task easier.
 
