@@ -1,4 +1,5 @@
 # ![Python Snippets](./logo.png "Python Snippets")
+You can also use improved ids like vs code and pycharm for using python snippets more effeciently
 
 :snake: Python snippets of examples, to learn things and to make task easier.
 
