@@ -4,7 +4,7 @@
 
 ---
 
-## Snippets
+## Snippets (python snippets makes are program. more easy for us to code ) 
 
 - [string_import.py](string_import.py) example to show import module from string
 - [classtools.py](classtools.py) assorted class utilities and tools
