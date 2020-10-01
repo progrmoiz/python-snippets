@@ -1,4 +1,4 @@
-# File classtools.py (new)
+# File classtools.py (latest)
 "Assorted class utilities and tools"
 
 class AttrDisplay:
