@@ -54,4 +54,4 @@ __Open an issue or a pull request to suggest changes or additions.__
 </p>
 
 [:arrow_up: __Back To Top__](#python-snippets)
-Nicely done and 
+Nicely done 
