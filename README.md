@@ -4,7 +4,7 @@
 
 ---
 
-## Snippets
+## Snippets  These are the most usefull snippets that can also be used in our development process for minimizing the efforts and maximizing the output.
 
 - [string_import.py](string_import.py) example to show import module from string
 - [classtools.py](classtools.py) assorted class utilities and tools
