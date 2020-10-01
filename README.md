@@ -1,3 +1,4 @@
+# WELCOME
 # ![Python Snippets](./logo.png "Python Snippets")
 
 :snake: Python snippets of examples, to learn things and to make task easier.
