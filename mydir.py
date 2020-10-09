@@ -1,6 +1,6 @@
 #!python
 """
-mydir.py: a module that lists the namespaces of other module
+mydir.py: a module that list the namespaces of other modules
 """
 from __future__ import print_function
 
