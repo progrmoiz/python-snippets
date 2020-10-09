@@ -25,9 +25,6 @@ These Snippets can make your life a lot easier than expected, use it wisely.
 - [listtree.py](listtree.py) Trace the entire class and all its object's attrs at and above self
 - [mapattrs.py](mapattrs.py) Map all attributes on or inherited by an
 instance to the instance or class from which they are inherited.
-- [title.py](title.py) The following snippet can be used to convert a string to title case. This is done using the title() method of the string class.
-- [list_comprehension.py](list_comprehension.py) List comprehension provides us with an elegant way of creating lists based on other lists.
-- [string_split.py](string_split.py) We can split a string into a list of substrings using the .split() method in the string class.
 
 
 ---
