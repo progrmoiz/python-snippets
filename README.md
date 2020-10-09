@@ -3,7 +3,7 @@ These Snippets can make your life a lot easier than expected, use it wisely.
 
 ---
 
-## Snippets
+## Snippets TO LEARN
 
 - [string_import.py](string_import.py) example to show import module from string
 - [classtools.py](classtools.py) assorted class utilities and tools
