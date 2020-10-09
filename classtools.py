@@ -32,5 +32,4 @@ if __name__ == "__main__":
         pass
 
     X, Y = TopTest(), SubTest()
-    print(X)
-    print(Y)
+    print(X,"\n",y)
