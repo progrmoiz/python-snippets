@@ -26,7 +26,9 @@ These Snippets can make your life a lot easier than expected, use it wisely.
 - [mapattrs.py](mapattrs.py) Map all attributes on or inherited by an
 instance to the instance or class from which they are inherited.
 
+## Find Code Snippets
 
+- [Find libraries & code snippets on kandi](https://kandi.openweaver.com/) - Develop faster with code snippets search; one place to find re-useable 430M+ assets.
 ---
 
 ## Contributing
